@@ -1,0 +1,10 @@
+INSERT INTO `tbldatauji_konver_bobot`( `no_alternatif`) VALUES (34.01);
+INSERT INTO `tbldatauji_konver_bobot`( `no_alternatif`) VALUES (34.02);
+INSERT INTO `tbldatauji_konver_bobot`( `no_alternatif`) VALUES (34.04);
+INSERT INTO `tbldatauji_konver_bobot`( `no_alternatif`) VALUES (34.05);
+INSERT INTO `tbldatauji_konver_bobot`( `no_alternatif`) VALUES (34.06);
+INSERT INTO `tbldatauji_konver_bobot`( `no_alternatif`) VALUES (34.08);
+INSERT INTO `tbldatauji_konver_bobot`( `no_alternatif`) VALUES (34.09);
+INSERT INTO `tbldatauji_konver_bobot`( `no_alternatif`) VALUES (34.10);
+INSERT INTO `tbldatauji_konver_bobot`( `no_alternatif`) VALUES (34.11);
+INSERT INTO `tbldatauji_konver_bobot`( `no_alternatif`) VALUES (34.13);
